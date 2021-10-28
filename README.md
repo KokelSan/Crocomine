@@ -1,0 +1,1 @@
+# Minesweeper-variant-automatic-player
